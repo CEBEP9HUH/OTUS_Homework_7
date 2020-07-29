@@ -3,7 +3,7 @@
         "name": "@PROJ_NAME@",
         "repo": "OTUS_homework",
         "subject": "cebep9huh",
-        "vcs_url": "https://github.com/CEBEP9HUH/OTUS_Homework_6.git",
+        "vcs_url": "https://github.com/CEBEP9HUH/OTUS_Homework_7.git",
         "licenses": "AFL-2.1"
     },
 
@@ -12,7 +12,7 @@
     },
 
     "files":    [{
-        "includePattern":   "/home/travis/build/CEBEP9HUH/OTUS_Homework_6/build/@PROJ_NAME@-0.0.@PROJECT_VERSION_PATCH@-Linux.deb",
+        "includePattern":   "/home/travis/build/CEBEP9HUH/OTUS_Homework_7/build/@PROJ_NAME@-0.0.@PROJECT_VERSION_PATCH@-Linux.deb",
         "uploadPattern":    "/@PROJ_NAME@-0.0.@PROJECT_VERSION_PATCH@-Linux.deb",
         "matrixParams": {
             "deb_distribution": "trusty",
